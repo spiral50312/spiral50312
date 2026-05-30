@@ -49,3 +49,12 @@
 ---
 
 *"数学是上帝书写宇宙的语言，而我正试着把它翻译成算法。"*
+## 📊 GitHub 统计
+
+<div align="center">
+
+![spiral50312's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiral50312&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiral50312&layout=compact)
+
+</div>
